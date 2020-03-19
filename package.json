@@ -1,0 +1,23 @@
+{
+  "name": "israel-average-symptoms-cities-map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaal/israel-corona-status.git"
+  },
+  "keywords": [],
+  "author": "Eran Segal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shaal/israel-corona-status/issues"
+  },
+  "homepage": "https://github.com/shaal/israel-corona-status#readme",
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}
